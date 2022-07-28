@@ -3,9 +3,13 @@ This project is to preliminarily practice the ability to use and apply SQL conce
 
 ### Relational Schema：
 User [id, fName, mInitial, lName, age, phone, email, nationality, significantOther]
+
 Event [title, date, description, location, sponsor]
+
 Attends [id, title, date, travelMethod]
+
 Friends [requestor, requestee, startDate
+
 
 ### Foreign Keys
 
